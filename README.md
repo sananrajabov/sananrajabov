@@ -13,7 +13,7 @@
 			<li><b>Nickname:</b> Ayzek, Leasanna </li>
 			<li><b>Watched:</b> 715 anime </li>
 			<li><b>Loves:</b> Dumplings, Gaming, Music </li>
-			<li><b>Trying to learn:</b> AI engineering </li>
+			<li><b>Trying to learn:</b> Date analytics, Machine Learning & AI engineering </li>
 		</ul>
 	</div>
 	<div>
