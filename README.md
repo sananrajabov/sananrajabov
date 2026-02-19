@@ -11,7 +11,7 @@
 		<ul>
 			<li><b>Name:</b> Sanan Rajabov </li>
 			<li><b>Nickname:</b> Ayzek, Leasanna </li>
-			<li><b>Watched:</b> 715 anime </li>
+			<li><b>Watched:</b> 724 anime </li>
 			<li><b>Loves:</b> Dumplings, Gaming, Music </li>
 			<li><b>Trying to learn:</b> Data analytics, Machine learning & AI engineering </li>
 		</ul>
