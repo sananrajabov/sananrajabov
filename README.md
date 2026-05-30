@@ -10,7 +10,7 @@
 		<h2 align="center"> About me ❤️</h2>
 		<ul>
 			<li><b>Name:</b> Sanan Rajabov </li>
-			<li><b>Nickname:</b> Ayzek, Leasanna </li>
+			<li><b>Nickname:</b> Leasanna </li>
 			<li><b>Watched:</b> 724 anime </li>
 			<li><b>Loves:</b> Dumplings, Gaming, Music </li>
 			<li><b>Trying to learn:</b> CS | Network </li>
